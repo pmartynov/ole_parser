@@ -1,0 +1,4 @@
+oletools
+boto3
+asyncio
+aioboto3
